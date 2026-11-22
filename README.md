@@ -2,6 +2,8 @@
 
 A plain-language checker. Paste text and ClearText highlights very long and long sentences, possible passive voice, formal words with simpler alternatives, and long words — explains each one, offers one-click replacements, and estimates readability.
 
+**Live demo:** [https://kavishtolani.github.io/cleartext/](https://kavishtolani.github.io/cleartext/) — runs entirely in your browser; demo data is fictional and labelled.
+
 ![Editor with highlights](docs/editor.png)
 
 | Landing | Mobile |
@@ -45,3 +47,7 @@ See the in-app **How it works** page. Sentences > 25 words are long, > 35 very l
 ## Future improvements
 
 - Custom word lists per organisation, sentence-split suggestions, and exporting a review summary.
+
+## Licence
+
+MIT — see [LICENSE](LICENSE).
