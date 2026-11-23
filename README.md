@@ -1,5 +1,17 @@
 # ClearText
 
+<!-- screenshots:start -->
+<p align="center">
+  <img src="docs/screenshots/desktop.png" alt="ClearText on a Mac (1440×900)" width="100%">
+</p>
+<p align="center">
+  <img src="docs/screenshots/tablet.png" alt="ClearText on a tablet" height="460">
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/phone.png" alt="ClearText on a phone" height="460">
+</p>
+<p align="center"><sub>Mac (1440×900) · Tablet (820×1180) · Phone (390×844)</sub></p>
+<!-- screenshots:end -->
+
 A plain-language checker. Paste text and ClearText highlights very long and long sentences, possible passive voice, formal words with simpler alternatives, and long words — explains each one, offers one-click replacements, and estimates readability.
 
 **Live demo:** [https://kavishtolani.github.io/cleartext/](https://kavishtolani.github.io/cleartext/) — runs entirely in your browser; demo data is fictional and labelled.
